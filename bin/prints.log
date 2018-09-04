@@ -1,0 +1,4 @@
+08:48:16.762 [main] DEBUG Log4jTutorial - I am debugging
+08:48:16.769 [main] ERROR Log4jTutorial - object is not present
+08:48:16.769 [main] INFO  Log4jTutorial - object is present
+08:48:16.769 [main] FATAL Log4jTutorial - This is fatal
